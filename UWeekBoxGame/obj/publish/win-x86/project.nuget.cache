@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "K3yBHvSVkYd/KtsWM/o/cFwTS2Z8eAMwUMvTbnTunLWxhum8j388wVr0faN36gjlLNhCAJ+EmzWScSm1wPTEUQ==",
+  "success": true,
+  "projectFilePath": "D:\\User\\Jansen\\Self Study\\2024 - 03 - MARCH\\C# Windows Form\\UWeekBoxGame\\UWeekBoxGame\\UWeekBoxGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.6\\guna.ui2.winforms.2.0.4.6.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\7.0.2\\microsoft.netcore.app.runtime.win-x86.7.0.2.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\7.0.2\\microsoft.windowsdesktop.app.runtime.win-x86.7.0.2.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\7.0.2\\microsoft.aspnetcore.app.runtime.win-x86.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
